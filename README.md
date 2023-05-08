@@ -51,7 +51,7 @@
 ### Github
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fidasek009&layout=compact&langs_count=10&theme=dark">
-<img src="https://github-readme-stats.vercel.app/api?username=Fidasek009&theme=dark&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&hide_title=true&line_height=21"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Fidasek009&theme=dark&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&hide_title=true&hide=prs&line_height=25"/>
 
 ### Leetcode
 [![LeetCode Stats](https://leetcard.jacoblin.cool/fidasek009?theme=dark)](https://leetcode.com/fidasek009/)
