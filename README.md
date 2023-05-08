@@ -15,7 +15,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Fidasek009&theme=dark&show_icons=true&hide_rank=true&include_all_commits=true&custom_title=Stats"/>
 
 ### Leetcode
-[![LeetCode Stats](https://leetcard.jacoblin.cool/fidasek009?theme=dark&font=Average)](https://leetcode.com/fidasek009/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/fidasek009?theme=dark)](https://leetcode.com/fidasek009/)
 
 </div>
 
