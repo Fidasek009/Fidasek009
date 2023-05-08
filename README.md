@@ -4,14 +4,19 @@
 <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&pause=1000&color=F75C00&center=true&width=435&lines=%F0%9F%A7%A0Mindset+%2B+%F0%9F%92%AAGrindset;Average+Python+enjoyer%F0%9F%98%8E;IT+student+on+Masaryk+University;1.+programmer+of+2023+in+%C5%A0umperk;Average+Rust+hater+%E0%BC%BC+%E3%81%A4+%E2%97%95_%E2%97%95+%E0%BC%BD%E3%81%A4;Always+up+for+a+challenge" alt="Typing SVG"/>
 </div>
 
-## Stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fidasek009&layout=compact&langs_count=10&theme=dark"><br>
+## Stats
 
+### Github
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fidasek009&layout=compact&langs_count=10&theme=dark">
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=Fidasek009&theme=dark&show_icons=true&hide_rank=true&include_all_commits=true&custom_title=Stats"/>
 
-
+### Leetcode
+![LeetCode Stats](https://leetcard.jacoblin.cool/fidasek009?theme=dark&font=Average)
 
 </div>
 
@@ -30,4 +35,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+
+Used shit:
+- https://readme-typing-svg.demolab.com/demo/
+- https://github.com/anuraghazra/github-readme-stats
+- https://leetcard.jacoblin.cool/
 -->
