@@ -8,7 +8,7 @@
 
 - 🎓 I'm studying at [Faculty of Informatics](https://www.fi.muni.cz/) on [Masaryk University](https://www.muni.cz/en)
 - 👴 18 years old
-- ❓ You can find more information on [my website](https://filipkrasa.kenolas.xyz/)
+- ❓ You can find more information on [my website](https://filipkrasa.kenolas.xyz)
 - ✨ Interested in 🤖**Machine Learning** and 🏴‍☠️**Pentesting**
 - 🔭 Currently working on **self-education**
 - 🌱 My goal is to develop a mobile app
