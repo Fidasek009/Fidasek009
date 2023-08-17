@@ -7,7 +7,7 @@
 ## <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=25px /> **About me**
 
 - 🎓 I'm studying at [Faculty of Informatics](https://www.fi.muni.cz) on [Masaryk University](https://www.muni.cz/en)
-- 👴 18 years old
+- 👴 19 years old
 - ❓ You can find more information on [my website](https://filipkrasa.kenolas.xyz/)
 - ✨ Interested in 🤖**Machine Learning** and 🏴‍☠️**Pentesting**
 - 🔭 Currently working on **self-education**
