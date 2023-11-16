@@ -1,4 +1,4 @@
-# Hello you👋
+# Hello friend👋
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Kdam+Thmor+Pro&pause=1000&color=F75C00&center=true&random=false&width=435&lines=%F0%9F%A7%A0Mindset+%2B%F0%9F%92%AAGrindset;Always+up+for+a+challenge%F0%9F%98%8E;Average+LeetCode+enjoyer%E2%98%95;High+goals%F0%9F%93%88;Zero+bitches%F0%9F%98%85" alt="Typing SVG" />
