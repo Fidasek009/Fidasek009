@@ -10,8 +10,8 @@
 - 👴 19 years old
 - ❓ You can find more information on [my website](https://filipkrasa.kenolas.xyz/)
 - ✨ Interested in 🤖**Machine Learning** and 🏴‍☠️**Pentesting**
-- 🔭 Currently working on **self-education**
-- 🌱 My goal is to develop a mobile app
+- 🔭 Currently focused on **education**
+- 🌱 My goal is to start my own business
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=25px> **Skills**
