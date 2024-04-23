@@ -52,7 +52,7 @@
 
 ### Languages
 
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fidasek009&layout=compact&langs_count=10&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fidasek009&layout=compact&langs_count=10&theme=dark&custom_title=GitHub+repositories)
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Fidasek009&layout=compact&langs_count=10&custom_title=Time+Wasted&theme=dark)
 
