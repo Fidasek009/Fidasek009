@@ -1,7 +1,7 @@
 # Hello friend👋
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Kdam+Thmor+Pro&pause=1000&color=F75C00&center=true&random=false&width=435&lines=%F0%9F%A7%A0Mindset+%2B%F0%9F%92%AAGrindset;Always+up+for+a+challenge%F0%9F%98%8E;Average+LeetCode+enjoyer%E2%98%95;High+goals%F0%9F%93%88;Zero+bitches%F0%9F%98%85" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Kdam+Thmor+Pro&pause=1000&color=F75C00&center=true&random=false&width=435&lines=%F0%9F%A7%A0Mindset+%2B%F0%9F%92%AAGrindset;Always+up+for+a+challenge%F0%9F%98%8E;I'm+the+only+one+who+can+stop+me!;Living+in+the+cloud+%F0%9F%98%B6%E2%80%8D%F0%9F%8C%AB%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 ## <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=25px /> **About me**
