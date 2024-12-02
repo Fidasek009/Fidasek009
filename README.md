@@ -6,7 +6,8 @@
 
 ## <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=25px /> **About me**
 
-- 🎓 I'm studying at [Faculty of Informatics](https://www.fi.muni.cz) on [Masaryk University](https://www.muni.cz/en)
+- 🎓 Studying at [Faculty of Informatics](https://www.fi.muni.cz) on [Masaryk University](https://www.muni.cz/en)
+- ⚒️ Working at [Intelligent Systems for Complex Data Research Group](https://disa.fi.muni.cz/complex-data-analysis/home)
 - 👴 20 years old
 - ❓ You can find more information on [my website](https://filipkrasa.kenolas.xyz/)
 - ✨ Interested in 🤖**Machine Learning** and 📈**Investing**
