@@ -9,7 +9,7 @@
 - 🎓 I'm studying at [Faculty of Informatics](https://www.fi.muni.cz) on [Masaryk University](https://www.muni.cz/en)
 - 👴 20 years old
 - ❓ You can find more information on [my website](https://filipkrasa.kenolas.xyz/)
-- ✨ Interested in 🤖**Machine Learning** and 🏴‍☠️**Pentesting**
+- ✨ Interested in 🤖**Machine Learning** and 📈**Investing**
 - 🔭 Currently focused on **education**
 - 🌱 My goal is to start my own business
 
