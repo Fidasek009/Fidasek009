@@ -42,7 +42,7 @@
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width=50px/></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width=50px/></td>
 <td><img src="https://static.wikia.nocookie.net/logopedia/images/1/1f/Nvidia_CUDA.svg" width=50px/></td>
-
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width=50px /></td>
 </table>
           
 
