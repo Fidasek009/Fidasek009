@@ -17,34 +17,93 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=25px> **Skills**
 
-### Languages
 
-<table>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50px /></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=50px /></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=50px/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=50px/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=50px/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width=50px/></td>
-<td><img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" width=50px/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50px/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width=50px/></td>
+<div style="display: flex; gap: 100px; justify-content: center; flex-wrap: wrap;" align="center">
+  <div>
+    <table>
+  <tr>
+    <th>Language</th>
+    <th>Proficiency</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" alt="Python"> Python</td>
+    <td>🟢🟢🟢🟢🟢</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" alt="TypeScript"> TypeScript</td>
+    <td>🟢🟢🟢🟢⚪</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="24" alt="C"> C</td>
+    <td>🟢🟢🟢🟢⚪</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="24" alt="C#"> C#</td>
+    <td>🟢🟢🟢🟢⚪</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" alt="HTML"> HTML</td>
+    <td>🟢🟢🟢🟢⚪</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="24" alt="SQL"> SQL</td>
+    <td>🟢🟢🟢⚪⚪</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" width="24" alt="Assembly"> Assembly</td>
+    <td>🟢🟢🟢⚪⚪</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" alt="C++"> C++</td>
+    <td>🟢🟢⚪⚪⚪</td>
+  </tr>
 </table>
-
-### Technologies
-
-<table>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=50px/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=50px/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=50px /></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width=50px/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width=50px /></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width=50px/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width=50px/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width=50px/></td>
-<td><img src="https://static.wikia.nocookie.net/logopedia/images/1/1f/Nvidia_CUDA.svg" width=50px/></td>
+  </div>
+  <div>
+    <table>
+  <tr>
+    <th>Technology</th>
+    <th>Proficiency</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24" alt="Linux"> Linux</td>
+    <td>🟢🟢🟢🟢🟢</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" alt="VS Code"> VS Code</td>
+    <td>🟢🟢🟢🟢🟢</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" alt="Git"> Git</td>
+    <td>🟢🟢🟢🟢🟢</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="24" alt="Docker"> Docker</td>
+    <td>🟢🟢🟢🟢🟢</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="24" alt="Kubernetes"> Kubernetes</td>
+    <td>🟢🟢🟢⚪⚪</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="24" alt="Android Development"> Android Apps</td>
+    <td>🟢🟢🟢⚪⚪</td>
+  </tr>
+  <tr>
+    <td><img src="https://static.wikia.nocookie.net/logopedia/images/1/1f/Nvidia_CUDA.svg" width="24" alt="CUDA"> NVIDIA CUDA</td>
+    <td>🟢🟢🟢⚪⚪</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="24" alt="TensorFlow"> TensorFlow</td>
+    <td>🟢🟢⚪⚪⚪</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="24" alt="Arduino"> Arduino</td>
+    <td>🟢🟢⚪⚪⚪</td>
+  </tr>
 </table>
-          
+  </div>
+</div>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=25px> **Stats**
