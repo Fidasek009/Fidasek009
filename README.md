@@ -8,7 +8,7 @@
 
 - 🎓 Studying at [Faculty of Informatics](https://www.fi.muni.cz) on [Masaryk University](https://www.muni.cz/en)
 - ⚒️ Working at [Intelligent Systems for Complex Data Research Group](https://disa.fi.muni.cz/complex-data-analysis/home)
-- 👴 20 years old
+- 👴 21 years old
 - ❓ You can find more information on [my website](https://filipkrasa.salonek.org/)
 - ✨ Interested in 🤖**Machine Learning** and 📈**Investing**
 - 🔭 Currently focused on **education**
