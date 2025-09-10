@@ -7,7 +7,7 @@
 ## <img src = "https://media.tenor.com/q4L3wKD-P7YAAAAi/hydra-we-bhack.gif" width=24px /> **About me**
 
 - 🎓 Studying at [Faculty of Informatics](https://www.fi.muni.cz) on [Masaryk University](https://www.muni.cz/en)
-- ⚒️ Working at [Intelligent Systems for Complex Data Research Group](https://disa.fi.muni.cz/complex-data-analysis/home)
+- ⚒️ Working at [MUNI Institute of Computer Science](https://www.ics.muni.cz/)
 - 👴 21 years old
 - ❓ You can find more information on [my website](https://filipkrasa.salonek.org/)
 - ✨ Interested in 🤖**Machine Learning** and 📈**Investing**
