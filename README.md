@@ -74,20 +74,20 @@
         <th>Proficiency</th>
       </tr>
       <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24" alt="Linux"> Linux</td>
-        <td>🟢🟢🟢🟢🟢</td>
-      </tr>
-      <tr>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" alt="VS Code"> VS Code</td>
         <td>🟢🟢🟢🟢🟢</td>
-      </tr>
-      <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" alt="Git"> Git</td>
-        <td>🟢🟢🟢🟢🟢</td>
-      </tr>
       <tr>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="24" alt="Docker"> Docker</td>
         <td>🟢🟢🟢🟢🟢</td>
+      </tr>
+      <tr>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24" alt="Linux"> Linux</td>
+        <td>🟢🟢🟢🟢⚪</td>
+      </tr>
+      </tr>
+      <tr>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" alt="Git"> Git</td>
+        <td>🟢🟢🟢🟢⚪</td>
       </tr>
       <tr>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="24" alt="React"> React</td>
