@@ -58,10 +58,6 @@
         <td>🟢🟢⚪⚪⚪</td>
       </tr>
       <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="24" alt="Java"> Java</td>
-        <td>🟢🟢⚪⚪⚪</td>
-      </tr>
-      <tr>
         <td><img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" width="24" alt="Assembly"> Assembly</td>
         <td>🟢🟢⚪⚪⚪</td>
       </tr>
@@ -72,6 +68,14 @@
       <tr>
         <th>Technology</th>
         <th>Proficiency</th>
+      </tr>
+      <tr>
+        <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.svg" width="24" alt="Linux"> Claude Code</td>
+        <td>🟢🟢🟢🟢🟢</td>
+      </tr>
+      <tr>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24" alt="Linux"> Linux</td>
+        <td>🟢🟢🟢🟢🟢</td>
       </tr>
       <tr>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" alt="VS Code"> VS Code</td>
