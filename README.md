@@ -6,12 +6,12 @@
 
 ## <img src = "https://media.tenor.com/q4L3wKD-P7YAAAAi/hydra-we-bhack.gif" width=24px /> **About me**
 
-- 🎓 Studying at [Faculty of Informatics](https://www.fi.muni.cz) on [Masaryk University](https://www.muni.cz/en)
+- 🎓 Bachelors degree from [Faculty of Informatics](https://www.fi.muni.cz) on [Masaryk University](https://www.muni.cz/en)
 - ⚒️ Working at [MUNI Institute of Computer Science](https://www.ics.muni.cz/)
 - 👴 21 years old
 - ❓ You can find more information on [my website](https://filipkrasa.salonek.org/)
-- ✨ Interested in 🤖**Machine Learning** and 📈**Investing**
-- 🔭 Currently focused on **education**
+- ✨ Interested in 🤖**Agentic Automation** and 📈**Investing**
+- 🔭 Currently focused on **enjoying life**
 - 🌱 My goal is to start my own business
 
 
@@ -70,10 +70,6 @@
         <th>Proficiency</th>
       </tr>
       <tr>
-        <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.svg" width="24" alt="Linux"> Claude Code</td>
-        <td>🟢🟢🟢🟢🟢</td>
-      </tr>
-      <tr>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24" alt="Linux"> Linux</td>
         <td>🟢🟢🟢🟢🟢</td>
       </tr>
@@ -83,6 +79,10 @@
       <tr>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="24" alt="Docker"> Docker</td>
         <td>🟢🟢🟢🟢🟢</td>
+      </tr>
+      <tr>
+        <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.svg" width="24" alt="Linux"> Claude Code</td>
+        <td>🟢🟢🟢🟢⚪</td>
       </tr>
       <tr>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24" alt="Linux"> Linux</td>
