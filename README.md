@@ -16,7 +16,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=24px> **Skills**
 
-**Languages:** TypeScript, Python, SQL, C#
+**Languages:** TypeScript, Python, C#
 
 **Frontend:** React, Tailwind CSS, shadcn/ui, TanStack
 
@@ -26,23 +26,28 @@
 
 **Cloud & Infrastructure:** Docker, Kubernetes, Helm, Linux, GitHub Actions, JupyterHub
 
-**Data:** PostgreSQL, SQLite, S3-compatible storage
+**Data:** PostgreSQL, SQLite, S3 storage
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=24px> **Stats**
 
-<div align="center">
+<p align="center">
+  <a href="https://wakatime.com/@Fidasek009">
+    <img
+      src="https://wakatime.com/share/@Fidasek009/8cc0060f-8380-48dc-9839-69bfe3305299.svg"
+      width="49%"
+      alt="WakaTime Stats"
+    />
+  </a>
+  <a href="https://wakatime.com/@Fidasek009">
+    <img
+      src="https://wakatime.com/share/@Fidasek009/1bbd0f9d-b218-49a6-83dc-4c6c5efa1bd4.svg"
+      width="49%"
+      alt="WakaTime Stats"
+    />
+  </a>
+</p>
 
-### Languages
-
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fidasek009&layout=compact&langs_count=10&theme=dark&custom_title=GitHub+repositories)
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Fidasek009&layout=compact&langs_count=10&custom_title=Time+Wasted&theme=dark)](https://wakatime.com/@Fidasek009)
-
-### Leetcode
-[![LeetCode Stats](https://leetcard.jacoblin.cool/fidasek009?theme=dark)](https://leetcode.com/fidasek009/)
-
-</div>
 
 
 <!--
