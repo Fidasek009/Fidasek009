@@ -6,125 +6,27 @@
 
 ## <img src = "https://media.tenor.com/q4L3wKD-P7YAAAAi/hydra-we-bhack.gif" width=24px /> **About me**
 
-- 🎓 Bachelors degree from [Faculty of Informatics](https://www.fi.muni.cz) on [Masaryk University](https://www.muni.cz/en)
-- ⚒️ Working at [MUNI Institute of Computer Science](https://www.ics.muni.cz/)
-- 👴 21 years old
-- ❓ You can find more information on [my website](https://filipkrasa.salonek.org/)
-- ✨ Interested in 🤖**Agentic Automation** and 📈**Investing**
-- 🔭 Currently focused on **enjoying life**
-- 🌱 My goal is to start my own business
+- 🎓 BSc in Programming and Application Development from [FI MUNI](https://www.fi.muni.cz/)
+- 🤖 Technical lead and co-creator of [Talqo](https://github.com/Talqo/talqo)
+- 🧬 Built [MDDash](https://github.com/CERIT-SC/mddash) for molecular dynamics researchers
+- 🐷 Once built a [flying pig controlled by brain waves](https://github.com/Fidasek009/TelePrase)
+- 🌱 I want to build things that are actually useful
+- 🌐 More stuff about me at [filipkrasa.salonek.org](https://filipkrasa.salonek.org/)
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=24px> **Skills**
 
+**Languages:** TypeScript, Python, SQL, C#
 
-<div style="display: flex; gap: 100px; justify-content: center; flex-wrap: wrap;" align="center">
-  <div>
-    <table>
-      <tr>
-        <th>Language</th>
-        <th>Proficiency</th>
-      </tr>
-      <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" alt="Python"> Python</td>
-        <td>🟢🟢🟢🟢🟢</td>
-      </tr>
-      <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" alt="TypeScript"> TypeScript</td>
-        <td>🟢🟢🟢🟢⚪</td>
-      </tr>
-      <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="24" alt="C"> C</td>
-        <td>🟢🟢🟢🟢⚪</td>
-      </tr>
-      <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="24" alt="C#"> C#</td>
-        <td>🟢🟢🟢🟢⚪</td>
-      </tr>
-      <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" alt="HTML"> HTML</td>
-        <td>🟢🟢🟢🟢⚪</td>
-      </tr>
-      <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="24" alt="JavaScript"> JavaScript</td>
-        <td>🟢🟢🟢⚪⚪</td>
-      </tr>
-      <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="24" alt="SQL"> SQL</td>
-        <td>🟢🟢🟢⚪⚪</td>
-      </tr>
-      <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" alt="C++"> C++</td>
-        <td>🟢🟢⚪⚪⚪</td>
-      </tr>
-      <tr>
-        <td><img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" width="24" alt="Assembly"> Assembly</td>
-        <td>🟢🟢⚪⚪⚪</td>
-      </tr>
-    </table>
-  </div>
-  <div>
-    <table>
-      <tr>
-        <th>Technology</th>
-        <th>Proficiency</th>
-      </tr>
-      <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24" alt="Linux"> Linux</td>
-        <td>🟢🟢🟢🟢🟢</td>
-      </tr>
-      <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24" alt="VS Code"> VS Code</td>
-        <td>🟢🟢🟢🟢🟢</td>
-      <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="24" alt="Docker"> Docker</td>
-        <td>🟢🟢🟢🟢🟢</td>
-      </tr>
-      <tr>
-        <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.svg" width="24" alt="Linux"> Claude Code</td>
-        <td>🟢🟢🟢🟢⚪</td>
-      </tr>
-      <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24" alt="Linux"> Linux</td>
-        <td>🟢🟢🟢🟢⚪</td>
-      </tr>
-      </tr>
-      <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" alt="Git"> Git</td>
-        <td>🟢🟢🟢🟢⚪</td>
-      </tr>
-      <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="24" alt="React"> React</td>
-        <td>🟢🟢🟢🟢⚪</td>
-      </tr>
-      <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="24" alt="Kubernetes"> Kubernetes</td>
-        <td>🟢🟢🟢⚪⚪</td>
-      </tr>
-      <tr>
-      <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" width="24" alt="Helm"> Helm</td>
-        <td>🟢🟢🟢⚪⚪</td>
-      </tr>
-      <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="24" alt="Jupyter"> Jupyter</td>
-        <td>🟢🟢🟢⚪⚪</td>
-      </tr>
-      <tr>
-        <td><img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/n8n-color.svg" width="24" alt="n8n"> n8n</td>
-        <td>🟢🟢🟢⚪⚪</td>
-      </tr>
-      <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="24" alt="Android Development"> Android Apps</td>
-        <td>🟢🟢🟢⚪⚪</td>
-      </tr>
-      <tr>
-        <td><img src="https://static.wikia.nocookie.net/logopedia/images/1/1f/Nvidia_CUDA.svg" width="24" alt="CUDA"> NVIDIA CUDA</td>
-        <td>🟢🟢⚪⚪⚪</td>
-      </tr>
-    </table>
-  </div>
-</div>
+**Frontend:** React, Tailwind CSS, shadcn/ui, TanStack
+
+**Backend:** Hono, FastAPI, Drizzle ORM, Zod, OpenAPI
+
+**AI:** LLM APIs, RAG, MCP, AI agents
+
+**Cloud & Infrastructure:** Docker, Kubernetes, Helm, Linux, GitHub Actions, JupyterHub
+
+**Data:** PostgreSQL, SQLite, S3-compatible storage
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=24px> **Stats**
@@ -141,8 +43,6 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/fidasek009?theme=dark)](https://leetcode.com/fidasek009/)
 
 </div>
-
-
 
 
 <!--
